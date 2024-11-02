@@ -66,7 +66,6 @@ A passionate Software Engineer with expertise in Mobile & Full Stack Development
 
 ### 📫 How to reach me
 - 📧 Email: kayodefredrickbalogun@gmail.com
-- 📱 Phone: +234 701 725 3817
 
 ---
 ⚡ Fun fact: I started my journey as a Physics with Electronics graduate and transitioned into Software Engineering!
