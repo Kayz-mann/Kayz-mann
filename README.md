@@ -29,7 +29,7 @@ A passionate Software Engineer with expertise in Mobile & Full Stack Development
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-[![Vapor](https://img.shields.io/badge/Vapor-4.0-blue?style=for-the-badge&logo=swift&logoColor=white)](https://github.com/Kayz-mann/vapor-server)
+[![Vapor](https://img.shields.io/badge/Vapor-5.0-blue?style=for-the-badge&logo=swift&logoColor=white)](https://github.com/Kayz-mann/vapor-server)
 
 
 
