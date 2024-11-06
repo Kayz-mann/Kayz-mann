@@ -24,7 +24,7 @@ A passionate Software Engineer with expertise in Mobile & Full Stack Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![RedwoodJS](https://img.shields.io/badge/RedwoodJS-F25AB5?style=for-the-badge&logo=redwood&logoColor=white)
+![RedwoodJS](https://img.shields.io/badge/RedwoodJS-FF0000?style=for-the-badge&logo=redwood&logoColor=white)
 
 #### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
