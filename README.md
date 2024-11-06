@@ -18,11 +18,13 @@ A passionate Software Engineer with expertise in Mobile & Full Stack Development
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
 
+
 #### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![RedwoodJS](https://img.shields.io/badge/RedwoodJS-F25AB5?style=for-the-badge&logo=redwood&logoColor=white)
 
 #### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
