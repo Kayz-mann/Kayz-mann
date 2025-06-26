@@ -51,10 +51,10 @@ A passionate Software Engineer with expertise in Mobile & Full Stack Development
 
 ### 🏆 Recent Projects
 
-- 🌍 **Uganda Tax Mobile Application** - A comprehensive tax management solution
-- ⚡ **Church Management System** - Mobile application for Winners Chapel
+- 🌍 **Tax Management Solution**
+- ⚡ **Data Entry Platform**
 - 💰 **Multi-currency Mobile Wallet** - Cross-platform payment solution
-- 💧 **Uganda Water Cooperation Platform** - Utility management system
+- 💧 **Utility Management System**
 - 💱 **Crypto Payment Platform** - GraphQL-based cryptocurrency payment solution
 
 ### 📈 GitHub Stats
